@@ -29,3 +29,6 @@ Un objet player est créé avec une matrice de pièce et une position initiale.
 Une fonction gameLoop appelle les fonctions de mise à jour et de dessin à intervalles réguliers, créant ainsi une boucle de jeu.
 Les touches du clavier sont écoutées pour déplacer et faire pivoter la pièce.
 La boucle de jeu est initiée à la fin du script.
+
+![tetris](https://github.com/Makkaoui-Mohammed/Jeu-Tetris-en-HTML5-Canvas-avec-JavaScript/assets/108239380/64c416c5-5dc7-4df9-9a1b-ad8d5e59d5a1)
+
